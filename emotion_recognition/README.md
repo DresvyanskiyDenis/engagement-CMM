@@ -4,7 +4,7 @@ The weights for the best affective model can be accessed via this [link](https:/
 
 
 <h3 align="center"> The pipeline of the model </h3>
-<img alt="" align="center" src="https://github.com/ECCV-2024-cross-multi-modal/Cross-Multi-Modal-Fusion-Approach/blob/main/figures/facial_pipeline.png" />
+<img alt="" align="center" src="https://github.com/DresvyanskiyDenis/engagement-CMM/tree/main/figures/facial_pipeline.png" />
 
 <h3 align="center">Training Data</h3>
 
