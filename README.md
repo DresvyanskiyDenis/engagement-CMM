@@ -5,26 +5,26 @@ The official repository for the paper "A Cross-Multi-Modal Fusion Approach for E
 The weights for all models (static, uni-modal dynamic, multi-modal) can be accessed via this [link](https://drive.google.com/drive/folders/1VmQGsmD-cmEqYnVFpowxHlo_wyfuChwm?usp=sharing).
 
 
-To see how to initialize, load, and exploit those models in your research, please, refer to [usage_example.py](https://github.com/icmi-2024-cross-multi-modal/icmi-cross-multi-modal/blob/main/usage_example.py).
+To see how to initialize, load, and exploit those models in your research, please, refer to [usage_example.py](https://github.com/DresvyanskiyDenis/engagement-CMM/blob/main/usage_example.py).
 Due to the constraints of GitHub, it is not possible for several models needed for the usage_example to be uploaded on GitHub. Therefore, please, download [this .zip file](https://drive.google.com/file/d/1OtWA4qxN40IXaXbnUSruCbBHObWVk-hg/view?usp=drive_link) and extract it into the *simpleHRNet* directory.
 
-Also, to see all the details about the utilized Affective static model that has been trained on 10 different emotion recognition datasets, please, refer to [this directory](https://github.com/icmi-2024-cross-multi-modal/icmi-cross-multi-modal/tree/main/emotion_recognition).
+Also, to see all the details about the utilized Affective static model that has been trained on 10 different emotion recognition datasets, please, refer to [this directory](https://github.com/DresvyanskiyDenis/engagement-CMM/tree/main/emotion_recognition).
 
 
 The pipelines of all models are presented below.
 
 
 <h3 align="center"> Multi-modal pipeline </h3>
-<img alt="" align="center" src="https://github.com/icmi-2024-cross-multi-modal/icmi-cross-multi-modal/blob/main/figures/multimodal_pipeline.png" />
+<img alt="" align="center" src="https://github.com/DresvyanskiyDenis/engagement-CMM/blob/main/figures/multimodal_pipeline.png" />
 
 <h3 align="center"> Uni-modal dynamic models </h3>
-<img alt="" align="center" src="https://github.com/icmi-2024-cross-multi-modal/icmi-cross-multi-modal/blob/main/figures/uni_modal_dynamic_pipeline.png" />
+<img alt="" align="center" src="https://github.com/DresvyanskiyDenis/engagement-CMM/blob/main/figures/uni_modal_dynamic_pipeline.png" />
 
 <h3 align="center"> Static Facial and Affective models </h3>
-<img alt="" align="center" src="https://github.com/icmi-2024-cross-multi-modal/icmi-cross-multi-modal/blob/main/figures/facial_pipeline.png" />
+<img alt="" align="center" src="https://github.com/DresvyanskiyDenis/engagement-CMM/blob/main/figures/facial_pipeline.png" />
 
 <h3 align="center"> Static Kinesics model </h3>
-<img alt="" align="center" src="https://github.com/icmi-2024-cross-multi-modal/icmi-cross-multi-modal/blob/main/figures/Kinesics_pipeline.png" />
+<img alt="" align="center" src="https://github.com/DresvyanskiyDenis/engagement-CMM/blob/main/figures/Kinesics_pipeline.png" />
 
 
 <h3 align="center"> Hypertraining parameters </h3>
